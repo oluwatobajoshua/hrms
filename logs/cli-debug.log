@@ -1,0 +1,119 @@
+2023-08-07 23:36:27 notice: Option `httpOnly` is deprecated. Use lowercased `httponly` instead.
+C:\xampp\htdocs\payroll\config\routes.php, line: 51
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `config/routes.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\Http\Middleware\CsrfProtectionMiddleware::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 112
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 51
+Cake\Routing\RouteBuilder::scope() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php, line 946
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 48
+Cake\Http\BaseApplication::routes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 200
+Cake\Console\CommandRunner::loadRoutes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 397
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 147
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
+2023-08-08 00:03:48 notice: Option `httpOnly` is deprecated. Use lowercased `httponly` instead.
+C:\xampp\htdocs\payroll\config\routes.php, line: 51
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `config/routes.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\Http\Middleware\CsrfProtectionMiddleware::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 112
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 51
+Cake\Routing\RouteBuilder::scope() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php, line 946
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 48
+Cake\Http\BaseApplication::routes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 200
+Cake\Console\CommandRunner::loadRoutes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 397
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 147
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
+2023-08-08 19:13:59 notice: Option `httpOnly` is deprecated. Use lowercased `httponly` instead.
+C:\xampp\htdocs\payroll\config\routes.php, line: 51
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `config/routes.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\Http\Middleware\CsrfProtectionMiddleware::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 112
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 51
+Cake\Routing\RouteBuilder::scope() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php, line 946
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 48
+Cake\Http\BaseApplication::routes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 200
+Cake\Console\CommandRunner::loadRoutes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 397
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 147
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
+2023-08-08 21:08:22 notice: Option `httpOnly` is deprecated. Use lowercased `httponly` instead.
+C:\xampp\htdocs\payroll\config\routes.php, line: 51
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `config/routes.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\Http\Middleware\CsrfProtectionMiddleware::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 112
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 51
+Cake\Routing\RouteBuilder::scope() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php, line 946
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 48
+Cake\Http\BaseApplication::routes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 200
+Cake\Console\CommandRunner::loadRoutes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 397
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 147
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
+2023-08-08 21:50:05 notice: Option `httpOnly` is deprecated. Use lowercased `httponly` instead.
+C:\xampp\htdocs\payroll\config\routes.php, line: 51
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `config/routes.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\Http\Middleware\CsrfProtectionMiddleware::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 112
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 51
+Cake\Routing\RouteBuilder::scope() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Routing\RouteBuilder.php, line 946
+Cake\Http\BaseApplication::{closure}() C:\xampp\htdocs\payroll\config\routes.php, line 48
+Cake\Http\BaseApplication::routes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 200
+Cake\Console\CommandRunner::loadRoutes() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 397
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 147
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
+2023-08-20 21:27:45 notice: The `Time` class has been deprecated. Use the immutable alternative `FrozenTime` instead
+C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\I18n\Time.php, line: 132
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `vendor/cakephp/cakephp/src/I18n/Time.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\I18n\Time::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\I18n\Time.php, line 132
+Cake\Chronos\MutableDateTime::now() C:\xampp\htdocs\payroll\vendor\cakephp\chronos\src\Traits\FactoryTrait.php, line 73
+EmployeeSalaryComponentsSeed::run() C:\xampp\htdocs\payroll\config\Seeds\EmployeeSalaryComponentsSeed.php, line 29
+Phinx\Migration\Manager\Environment::executeSeed() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php, line 146
+Phinx\Migration\Manager::executeSeed() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php, line 416
+Phinx\Migration\Manager::seed() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php, line 563
+Phinx\Console\Command\SeedRun::execute() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php, line 106
+Migrations\Command\Phinx\Seed::parentExecute() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php, line 37
+Migrations\Command\Phinx\Seed::execute() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\Phinx\Seed.php, line 76
+Symfony\Component\Console\Command\Command::run() C:\xampp\htdocs\payroll\vendor\symfony\console\Command\Command.php, line 308
+Symfony\Component\Console\Application::doRunCommand() C:\xampp\htdocs\payroll\vendor\symfony\console\Application.php, line 998
+Symfony\Component\Console\Application::doRun() C:\xampp\htdocs\payroll\vendor\symfony\console\Application.php, line 299
+Symfony\Component\Console\Application::run() C:\xampp\htdocs\payroll\vendor\symfony\console\Application.php, line 171
+Migrations\Command\MigrationsCommand::execute() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\MigrationsCommand.php, line 126
+Cake\Console\BaseCommand::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 189
+Migrations\Command\MigrationsCommand::run() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\MigrationsCommand.php, line 198
+Cake\Console\CommandRunner::runCommand() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 334
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 172
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
+2023-08-20 22:37:33 notice: The `Date` class has been deprecated. Use the immutable alternative `FrozenDate` instead
+C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\I18n\Date.php, line: 136
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `vendor/cakephp/cakephp/src/I18n/Date.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Trace:
+deprecationWarning C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Core\functions.php, line 321
+Cake\I18n\Date::__construct() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\I18n\Date.php, line 136
+AttendanceRecordsSeed::run() C:\xampp\htdocs\payroll\config\Seeds\AttendanceRecordsSeed.php, line 29
+Phinx\Migration\Manager\Environment::executeSeed() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php, line 146
+Phinx\Migration\Manager::executeSeed() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php, line 416
+Phinx\Migration\Manager::seed() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php, line 563
+Phinx\Console\Command\SeedRun::execute() C:\xampp\htdocs\payroll\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php, line 106
+Migrations\Command\Phinx\Seed::parentExecute() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php, line 37
+Migrations\Command\Phinx\Seed::execute() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\Phinx\Seed.php, line 76
+Symfony\Component\Console\Command\Command::run() C:\xampp\htdocs\payroll\vendor\symfony\console\Command\Command.php, line 308
+Symfony\Component\Console\Application::doRunCommand() C:\xampp\htdocs\payroll\vendor\symfony\console\Application.php, line 998
+Symfony\Component\Console\Application::doRun() C:\xampp\htdocs\payroll\vendor\symfony\console\Application.php, line 299
+Symfony\Component\Console\Application::run() C:\xampp\htdocs\payroll\vendor\symfony\console\Application.php, line 171
+Migrations\Command\MigrationsCommand::execute() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\MigrationsCommand.php, line 126
+Cake\Console\BaseCommand::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 189
+Migrations\Command\MigrationsCommand::run() C:\xampp\htdocs\payroll\vendor\cakephp\migrations\src\Command\MigrationsCommand.php, line 198
+Cake\Console\CommandRunner::runCommand() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 334
+Cake\Console\CommandRunner::run() C:\xampp\htdocs\payroll\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 172
+[main] C:\xampp\htdocs\payroll\bin\cake.php, line 12
+
